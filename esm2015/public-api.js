@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of gd-command
+ */
+export * from './lib/gd-command.service';
+export * from './lib/gd-command.component';
+export * from './lib/gd-command.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIuLi8uLi8uLi9wcm9qZWN0cy9nZC1jb21tYW5kL3NyYy8iLCJzb3VyY2VzIjpbInB1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyx5QkFBeUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgZ2QtY29tbWFuZFxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2dkLWNvbW1hbmQuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9nZC1jb21tYW5kLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9nZC1jb21tYW5kLm1vZHVsZSc7XG4iXX0=
